@@ -2,6 +2,8 @@
 
 Dockerized Node.js application demonstrating containerization and deployment using Docker.
 
+📍Access app: http://localhost:3000
+
 
 
 ## 🛠 Tech Stack
@@ -23,8 +25,8 @@ docker run -p 3000:3000 node-app
 ### Application Output
 ![App](Screenshots/Browser.png)
 
-### Docker
+### Docker Build Output
 ![Docker](Screenshots/Docker.png)
 
-### Running
+### Running Container
 ![Running](Screenshots/running.png)
