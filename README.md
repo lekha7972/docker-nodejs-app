@@ -24,7 +24,7 @@ docker run -p 3000:3000 node-app
 ![App](Screenshots/Browser.png)
 
 ### Docker Containers
-![Docker](Screenshots/Docker containers.png)
+![Docker](Screenshots/Docker.png)
 
 ### Running Container
-![Running](Screenshots/running container.png)
+![Running](Screenshots/running.png)
